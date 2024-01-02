@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --color: rgba(85, 90, 221, 0.494);
+}
